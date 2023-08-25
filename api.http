@@ -5,7 +5,7 @@ POST http://localhost:3000/routes
 Content-Type: application/json
 
 {
-  "name": null,
+  "name": "Rota 1",
   "source": {
     "lat": "11.4",
     "lng": "12.4"
